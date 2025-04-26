@@ -300,6 +300,12 @@
     "gathered_data": ["info1", "info4", "info7", "info8", "info15", "info22"]
 },
     {
+    "name": "Overwolf",
+    "url": "https://legal.overwolf.com/docs/overwolf/platform/platform-privacy-policy",
+    "difficulty": "easy",
+    "gathered_data": ["info1", "info4", "info5", "info6", "info7", "info8", "info9", "info13", "info15", "info19", "info20"]
+},
+    {
     "name": "Pinterest",
     "url": "https://policy.pinterest.com/en/privacy-policy",
     "difficulty": "medium",
