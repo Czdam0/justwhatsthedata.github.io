@@ -302,7 +302,7 @@
     {
     "name": "Overwolf",
     "url": "https://legal.overwolf.com/docs/overwolf/platform/platform-privacy-policy",
-    "difficulty": "easy",
+    "difficulty": "medium",
     "gathered_data": ["info1", "info4", "info5", "info6", "info7", "info8", "info9", "info13", "info15", "info19", "info20"]
 },
     {
